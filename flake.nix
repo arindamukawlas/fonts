@@ -21,7 +21,7 @@
           src = pkgs.fetchzip {
             url =
               "https://github.com/arindamukawlas/fonts/raw/refs/heads/main/apple-fonts.zip";
-            sha256 = "sha256-YcZUKzRskiqmEqVcbK/XL6ypsNMbY49qJYFG3yZVF78=";
+            sha256 = "sha256-rjwiL36+K5fs7NOGXKGR176X4fU77/BWaXC/RJJKQGY=";
             stripRoot = false;
           };
           installPhase = ''
